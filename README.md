@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm AntBen09! 👋
 
-<!--
-**AntBen09/AntBen09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository!
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Learning GitHub through educational access and student courses
+- 🚀 Getting started with version control and collaborative development
+- 📚 Exploring GitHub features and best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's in This Repository
+This is my personal learning space where I'll document my GitHub journey and projects.
+
+## Goals
+- [ ] Complete GitHub Skills courses
+- [ ] Build meaningful projects
+- [ ] Learn best practices in development
+
+## Let's Connect
+- Feel free to check out my repositories
+- I'm learning, so feedback is welcome!
+
+---
+*Last updated: June 2026*
